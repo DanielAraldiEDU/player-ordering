@@ -18,11 +18,11 @@ No primeiro trabalho da M3 o objetivo é explorar um pouco o uso de algoritmos d
 
    c. Não deve existir um vetor de nomes e um vetor de pontos separados.
 
-2. Devem existir duas funções, `showPlayers()` e `bestPoints()`:
+2. Devem existir duas funções, `showPlayers()` e `highestScores()`:
 
    a. `showPlayers()` deve mostrar no console o nome de todos os jogadores ordenados em ordem alfabética.
 
-   b. `bestPoints()` deve mostrar no console as 100 melhores pontuações, ordenadas da melhor para a pior e **jogadores com pontuações iguais devem aparecer ordenados em ordem alfabética**.
+   b. `highestScores()` deve mostrar no console as 100 melhores pontuações, ordenadas da melhor para a pior e **jogadores com pontuações iguais devem aparecer ordenados em ordem alfabética**.
 
 3. Para fazer a ordenação, vocês devem implementar 2 algoritmos de ordenação diferentes:
 
